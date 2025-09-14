@@ -15,7 +15,7 @@ The hero can perform the following actions:
 - Navigate toward the treasure
 
 ## 📂 Repository Structure
-plaintext
+```plaintext
 ├── domain.pddl        # Domain definition (actions, predicates, etc.)
 ├── problem1.pddl      # Provided problem instance 1
 ├── problem2.pddl      # Provided problem instance 2
